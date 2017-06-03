@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Star Pusher
+GenericName=Star Pusher
+Categories=Game
+Exec=/usr/bin/starpusher
+Icon=/usr/share/starpusher/assets/starpusher.svg
+StartupNotify=true
+Terminal=false
